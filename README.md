@@ -1,4 +1,4 @@
-# Project Title: Autonomous Research Agent with Local LLM and Web Crawling
+# Autonomous Research Agent with Local LLM and Web Crawling
 
 This project showcases a powerful autonomous research agent built with LangChain, leveraging a locally hosted Large Language Model (LLM) for reasoning and two powerful tools for information retrieval: Exa for targeted URL searches and an asynchronous web crawler for in-depth content extraction.
 
@@ -142,4 +142,5 @@ You will see a series of log messages in your console as the agent works through
 Final Answer:
 ==================================================
 Based on the latest information, the trending news in Large Language Models (LLMs) includes... [synthesized answer from crawled content]
+
 ```
