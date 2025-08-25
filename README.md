@@ -58,10 +58,11 @@ Follow these instructions to get the project up and running on your local machin
     pip install -r requirements.txt
     ```
 
-4.  **Install Playwright Browsers**:
+4.  **Install Playwright Browsers and crawl4AI setup**:
     The `crawl4ai` library uses Playwright to render web pages. You need to install the necessary browser binaries.
     ```bash
     playwright install
+    crawl4ai-setup
     ```
 
 5.  **Set Up Environment Variables**:
@@ -144,3 +145,4 @@ Final Answer:
 Based on the latest information, the trending news in Large Language Models (LLMs) includes... [synthesized answer from crawled content]
 
 ```
+
