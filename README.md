@@ -68,7 +68,7 @@ Follow these instructions to get the project up and running on your local machin
     ```
 
 5.  **Set Up Environment Variables**:
-    Create a file named `.env` in the root of the project directory and add your Exa API key:
+    Create a file named `.env` in the root of the project directory and add your Exa API key , you can get one from exa.ai 
     ```
     EXA_SEARCH_API="your_exa_api_key_here"
     ```
@@ -147,5 +147,6 @@ Final Answer:
 Based on the latest information, the trending news in Large Language Models (LLMs) includes... [synthesized answer from crawled content]
 
 ```
+
 
 
