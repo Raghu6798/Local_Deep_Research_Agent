@@ -44,6 +44,7 @@ Follow these instructions to get the project up and running on your local machin
 
     ```
     langchain
+    langchain-community
     langgraph
     pydantic
     python-dotenv
@@ -51,6 +52,7 @@ Follow these instructions to get the project up and running on your local machin
     exa_py
     crawl4ai
     playwright
+    requests
     ```
 
     Then, install the packages:
@@ -145,4 +147,5 @@ Final Answer:
 Based on the latest information, the trending news in Large Language Models (LLMs) includes... [synthesized answer from crawled content]
 
 ```
+
 
